@@ -1,12 +1,15 @@
-# Larticles Laravel/Vue App
+# Laravel Vue
 
-> Laravel 5.5 API that uses the API resources with a Vue.js frontend
+> Laravel 5.4 API that uses the API resources with a Vue.js frontend
 
 ## Quick Start
 
 ``` bash
 # Install Dependencies
 composer install
+
+# Create Database
+name database "larticlesapp"
 
 # Run Migrations
 php artisan migrate
@@ -66,7 +69,7 @@ Brad Traversy
 
 ### Version
 
-1.0.0
+v.0.1
 
 ### License
 
